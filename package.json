@@ -1,6 +1,6 @@
 {
   "name": "projector-babel",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Run Babel with ease",
   "main": "index.js",
   "repository": "git@github.com:projectorjs/projector-babel.git",
